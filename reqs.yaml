@@ -1,0 +1,25 @@
+name:
+  qblab2
+channels:
+  - anaconda
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python==3.12
+  - pandas
+  - polars
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - statsmodels
+  - openpyxl
+  - ipywidgets
+  - pip
+  - pip:
+      - seaborn
+      - jupyterlab
+ 
+

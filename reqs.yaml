@@ -17,9 +17,10 @@ dependencies:
   - statsmodels
   - openpyxl
   - ipywidgets
+  - biopython
   - pip
   - pip:
       - seaborn
       - jupyterlab
- 
+      - RamachanDraw
 
